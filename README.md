@@ -40,7 +40,7 @@ An Arduino-based system designed to monitor temperature and humidity using a DHT
 ### Software Setup
 1. Install Arduino IDE: Download and install the [Arduino IDE](https://www.arduino.cc/en/software)
 2. Clone this Repository:
-   "git clone https://github.com/NathanielRecto/Temperature_and_Humidity_sensor_with_LED_Lights.git"
+    - "git clone https://github.com/NathanielRecto/Temperature_and_Humidity_sensor_with_LED_Lights.git"
 4. Open the Sketch:
    - Open the Temperature_and_Humidity_sensor_with_LED_Lights.ino
 5. Install the Required Libraries:
