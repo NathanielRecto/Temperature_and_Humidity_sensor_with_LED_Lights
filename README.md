@@ -1,4 +1,4 @@
-# Temperature_and_Humidity_sensor_with_LED_Lights
+# LED Temp-Humidity Indicator Project
 An Arduino-based system designed to monitor temperature and humidity using a DHT11 sensor. The system displays real-time data on a 16x2 LCD screen and activates LED lights based on the current temperature. It is a simple yet engaging project, perfect for understanding sensor integration and controlling outputs in microcontoller environments.
 
 ## Features
