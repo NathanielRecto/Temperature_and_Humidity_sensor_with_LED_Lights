@@ -23,8 +23,9 @@ An Arduino-based system designed to monitor temperature and humidity using a DHT
 
 ![Schematic_bb](https://github.com/user-attachments/assets/dadbc37a-4c1e-4c9f-a15a-e6fb094fd8d7)
 
-## Circuit Diagram
+## Schematic
 
+![project_schem](https://github.com/user-attachments/assets/bcf68303-6a7d-4a25-841c-ac86b2743aac)
 ## Setup And Installation
 ### Hardware Setup
 ### Software Setup
