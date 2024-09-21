@@ -28,6 +28,15 @@ An Arduino-based system designed to monitor temperature and humidity using a DHT
 ![project_schem](https://github.com/user-attachments/assets/bcf68303-6a7d-4a25-841c-ac86b2743aac)
 ## Setup And Installation
 ### Hardware Setup
+1. Connect the DHT11 sensor:
+   - Data pin to pin 8 on the UNO R3 Controller Board.
+   - VCC to 5V and GND to GND.
+2. Connect the LEDs:
+   - Red LED to pin 9, Blue LED to pin 10, and White LED to pin 11.
+   - Each LED should have a 330-ohm resistor connected in series.
+3. Connect the LCD
+   - Use the LiquidCrystal library's default pins for RS, E, d4, d5, d6, and d7.
+4. Connect everything using jumper wires and a breadboard for proper electrical connections.
 ### Software Setup
 
 ## How it Works
