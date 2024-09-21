@@ -40,13 +40,13 @@ An Arduino-based system designed to monitor temperature and humidity using a DHT
 ### Software Setup
 1. Install Arduino IDE: Download and install the [Arduino IDE](https://www.arduino.cc/en/software)
 2. Clone this Repository:
-   git clone https://github.com/yourusername/Temperature_and_Humidity_sensor_with_LED_Lights.git
-3. Open the Sketch:
+   "git clone https://github.com/yourusername/Temperature_and_Humidity_sensor_with_LED_Lights.git"
+4. Open the Sketch:
    - Open the Temperature_and_Humidity_sensor_with_LED_Lights.ino
-4. Install the Required Libraries:
+5. Install the Required Libraries:
    - Install the DHT library by Adafruit for reading temperature and humidity sensor.
    - Install the LiquidCrystal library to control the LCD.
-5. Upload the Code:
+6. Upload the Code:
     - Connect your UNO R3 Controller Baord to your computer via USB.
     - Select the coorect board and port in the Arduino IDE.
     - Click on the upload button to load the code onto the board. 
