@@ -32,8 +32,8 @@ void setup() {
 // Function to set the LED states
 void setLEDState(int redState, int blueState, int whiteState) {
   digitalWrite(redLED, redState);      // Set red LED state.
-  digitalWrite(whiteLED, blueState);    // Set white LED state.
-  digitalWrite(blueLED, whiteState);  // Set blue LED state.
+  digitalWrite(blueLED, blueState);    // Set white LED state.
+  digitalWrite(whiteLED, whiteState);  // Set blue LED state.
 }
 
 void loop() {
